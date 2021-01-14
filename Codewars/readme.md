@@ -1,6 +1,2 @@
-"Just a collection of completed katas"
-n
 
-
-
-
+Just a collection of completed katas
